@@ -1,21 +1,21 @@
 
-<h1 align="center">Hola, soy José Manuel!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">¡Hola, soy José Manuel!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+Ingenieria+de+Sistemas;Programador;Siempre+aprendiendo+cosas+nuevas&center=true&duration=3000&background=00000000&vcenter=true&width=500&height=30"></a>
 </p>
 
 
 ## Sobre mi:
-- Estudio Ing. de Sistemas en la `Institucion Universitaria de Envigado`
+- Estudio Ing. de Sistemas en la `Institución Universitaria de Envigado`
 - Me encanta solucionar problemas
 - Hablo fluido: `Español` e `Ingles`
 - Intento programar diariamente con `Codewars` y `r/dailyprogramer`
-- Actualmente estudiando: `Japones` e `Ingenieria de Software`
-- Actualmente abierto a: Una `Pasantia`, `Trabajo colaborativo` o una nueva `Oportunidad de trabajo`, esta es mi [HOJA DE VIDA](#)
+- Actualmente estudiando: `Japones` e `Ingeniería de Software`
+- Actualmente abierto a: Una `Pasantía`, `Trabajo colaborativo` o una nueva `Oportunidad de trabajo`, esta es mi [HOJA DE VIDA](#)
 
 <br>
 
-### Hablame
+### Háblame
 <p align="center">
     <a href="https://github.com/JoseMFB007/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   &emsp;
@@ -35,7 +35,7 @@
 
 ## Mis Habilidades
 
-### Lenguajes de Programacion
+### Lenguajes de Programación
 
 <p align="center"> 
   &emsp;
@@ -64,7 +64,7 @@
     <a href="#"><img alt="NetBeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"></a>
 </p>
 
- ### Programacion Competitiva y Aprendizaje
+ ### Programación Competitiva y Aprendizaje
  
 <p align="center">
   &emsp;
@@ -100,7 +100,7 @@
 </p>
 <br/>
 
-## Estadisticas de Github
+## Estadísticas de Github
 
 <br/>
 <p align="center">
@@ -114,13 +114,13 @@
 <br>
 </p>
 
-<b><i>Nota:</i></b> Este grafico solo es una metrica de los lenguages mas usados en mi codigo publico y no refleja experiencia o habilidad directamente.
+<b><i>Nota:</i></b> Este grafico solo es una métrica de los lenguajes más usados en mi código público y no refleja experiencia o habilidad directamente.
 <br>
     
 ----
 
 <br>
-<i><b>Creditos:</i></b>
+<i><b>Créditos:</i></b>
 <a href="https://github.com/7oSkaaa">7oSkaaa</a>, <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md">anuraghazra</a>, <a href="https://github.com/Ileriayo/markdown-badges#markdown-badges">Ileriayo</a>, <a href="https://github.com/DenverCoder1/readme-typing-svg">DenverCoder1</a>
 <br>
-<i>Ultima Edicion: 17/04/2022</i>
+<i>Ultima Edición: 17/04/2022</i>

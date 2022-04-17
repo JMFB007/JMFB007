@@ -1,7 +1,7 @@
 
 <h1 align="center">¡Hola, soy José Manuel!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+Ingenieria+de+Sistemas;Programador;Siempre+aprendiendo+cosas+nuevas&center=true&duration=3000&background=00000000&vcenter=true&width=500&height=30"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+Ingenieria+de+Sistemas;Programador;Siempre+aprendiendo+cosas+nuevas&center=true&duration=3000&color=007397&vcenter=true&width=500&height=30"></a>
 </p>
 
 

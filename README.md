@@ -11,7 +11,7 @@
 - Hablo fluido: `Español` e `Ingles`
 - Intento programar diariamente con `Codewars` y `r/dailyprogramer`
 - Actualmente estudiando: `Japones` e `Ingenieria de Software`
-- Actualmente abierto a: Una `Pasantia` o una nueva `oportunidad de trabajo`, esta es mi [HOJA DE VIDA](#)
+- Actualmente abierto a: Una `Pasantia`, `Trabajo colaborativo` o una nueva `Oportunidad de trabajo`, esta es mi [HOJA DE VIDA](#)
 - Siempre `aprendiendo cosas nuevas`
 
 <br>

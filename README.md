@@ -124,4 +124,4 @@
 <i><b>Creditos:</i></b>
 <a href="https://github.com/7oSkaaa">7oSkaaa</a>, <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md#tarjeta-de-lenguajes-principales">anuraghazra</a>, <a href="https://github.com/Ileriayo/markdown-badges#markdown-badges">Ileriayo</a>, <a href="https://github.com/DenverCoder1/readme-typing-svg">DenverCoder1</a>
 <br>
-_Ultima Edicion: 17/04/2022_
+<i>Ultima Edicion: 17/04/2022</i>

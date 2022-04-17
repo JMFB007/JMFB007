@@ -4,22 +4,16 @@
 </p>
 
 <br>
+
 ## About me:
-- :school: Estudio Ing. de Sistemas de la Institucion Universitaria de Envigado, y voy en el `7mo semestre`
+- :school: Estudio Ing. de Sistemas en la `Institucion Universitaria de Envigado`
 - :technologist: Me encanta solucionar `problemas`
 - :computer: Intento programar diariamente con `Codewars` y `r/dailyprogramer`
 - :student: Actualmente estudiando: `Japones` y `Ingenieria de Software`.
-- :thinking: Actualmente abierto a: `An Intern` o una nueva `oportunidad de trabajo`, esta es [MI HOJA DE VIDA](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+- :thinking: Actualmente abierto a: Una `Pasantia` o una nueva `oportunidad de trabajo`, esta es [MI HOJA DE VIDA](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
 - :nerd_face: Siempre `aprendiendo cosas nuevas`
 
 <br>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
-
-<br>
-<br>
-
 
 ## 👀 My Competitive Programming Profiles
 
@@ -133,24 +127,13 @@
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 
- ### 👉 Operating Systems
+ ### Sistema Operativo
  
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>	  
-</p>
+ ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <br/>
 
 ## 📊 Github Stats
-
-
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>

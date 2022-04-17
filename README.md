@@ -12,7 +12,6 @@
 - Intento programar diariamente con `Codewars` y `r/dailyprogramer`
 - Actualmente estudiando: `Japones` e `Ingenieria de Software`
 - Actualmente abierto a: Una `Pasantia`, `Trabajo colaborativo` o una nueva `Oportunidad de trabajo`, esta es mi [HOJA DE VIDA](#)
-- Siempre `aprendiendo cosas nuevas`
 
 <br>
 
@@ -106,12 +105,12 @@
 <br/>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=JoseMFB007&repo=github-readme-stats&theme=react&show_icons=true&locale=es"></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=JoseMFB007&repo=github-readme-stats&theme=react&show_icons=true&locale=es&icon_color=007397&text_color=000000&title_color=007397&bg_color=9ecdc7"></a>
   <br>
  
   <br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMFB007&repo=github-readme-stats&theme=react&show_icons=true&locale=es"></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMFB007&repo=github-readme-stats&theme=react&show_icons=true&locale=es&text_color=000000&title_color=007397&layout=compact&bg_color=9ecdc7"></a>
 <br>
 </p>
 
@@ -122,6 +121,6 @@
 
 <br>
 <i><b>Creditos:</i></b>
-<a href="https://github.com/7oSkaaa">7oSkaaa</a>, <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md#tarjeta-de-lenguajes-principales">anuraghazra</a>, <a href="https://github.com/Ileriayo/markdown-badges#markdown-badges">Ileriayo</a>, <a href="https://github.com/DenverCoder1/readme-typing-svg">DenverCoder1</a>
+<a href="https://github.com/7oSkaaa">7oSkaaa</a>, <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md">anuraghazra</a>, <a href="https://github.com/Ileriayo/markdown-badges#markdown-badges">Ileriayo</a>, <a href="https://github.com/DenverCoder1/readme-typing-svg">DenverCoder1</a>
 <br>
 <i>Ultima Edicion: 17/04/2022</i>

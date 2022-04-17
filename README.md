@@ -137,12 +137,15 @@
 
 <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="JoseMFB007 Github Stats" src="https://github-readme-stats.vercel.app/api?username=JoseMFB007&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+	
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="JoseMFB007 Github Stats" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMFB007)](https://github.com/anuraghazra/github-readme-stats)" height="192px"/></a>
 <br/>
-  &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseMFB007&langs_count=10&show_icons=true&locale=es&layout=compact&theme=algolia" alt="JoseMFB007" height="192px"/>
+ 
+<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMFB007)](https://github.com/anuraghazra/github-readme-stats)" alt="JoseMFB007 top languages" height="192px"/>
   <br/>
+	
   <b><i>Nota:</i></b> Este grafico solo es una metrica de los lenguages mas usados en mi codigo publico y no refleja experiencia o habilidad directamente.
+	
   </p>
 
 ----

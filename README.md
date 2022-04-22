@@ -105,12 +105,12 @@
 <br/>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=JoseMFB007&repo=github-readme-stats&theme=react&show_icons=true&locale=es&icon_color=007397&text_color=000000&title_color=007397&bg_color=9ecdc7"></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=JMFB007&repo=github-readme-stats&theme=react&show_icons=true&locale=es&icon_color=007397&text_color=000000&title_color=007397&bg_color=9ecdc7"></a>
   <br>
  
   <br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMFB007&repo=github-readme-stats&theme=react&show_icons=true&locale=es&text_color=000000&title_color=007397&layout=compact&bg_color=9ecdc7"></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMFB007&repo=github-readme-stats&theme=react&show_icons=true&locale=es&text_color=000000&title_color=007397&layout=compact&bg_color=9ecdc7"></a>
 <br>
 </p>
 

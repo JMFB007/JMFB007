@@ -70,15 +70,7 @@
   &emsp;
     <a href="#"><img alt = "CodeWars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/></a>
   &emsp;
-    <a href="https://www.reddit.com/r/dailyprogrammer/"><img alt = "Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/></a>
-  &emsp;
     <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
-  &emsp;
-    <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
 </p>
 
  ## Sistema Operativo y Buscador Preferidos

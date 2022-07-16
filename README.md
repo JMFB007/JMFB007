@@ -9,7 +9,7 @@
 - Estudio Ing. de Sistemas en la `Institución Universitaria de Envigado`
 - Me encanta solucionar problemas
 - Hablo fluido: `Español` e `Ingles`
-- Intento programar diariamente con `Codewars` y `r/dailyprogramer`
+- Intento programar diariamente
 - Actualmente estudiando: `Japones` e `Ingeniería de Software`
 - Actualmente abierto a: Una `Pasantía`, `Trabajo colaborativo` o una nueva `Oportunidad de trabajo`, esta es mi [HOJA DE VIDA](#)
 
@@ -27,7 +27,7 @@
   &emsp;
     <a href="#"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
   &emsp;
-    <a href="#"><img alt="Twitter" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+    <a href="#"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   &emsp;
     <a href="https://discordapp.com/channels/@me/Slum#1888/"><img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>

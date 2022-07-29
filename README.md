@@ -5,20 +5,18 @@
 </p>
 
 
-## Sobre mi:
+## Sobre mí:
 - Estudio Ingeniería de Sistemas en la `Institución Universitaria de Envigado`
 - Me encanta solucionar problemas
 - Hablo fluido: `Español` e `Ingles`
 - Intento programar diariamente
-- Actualmente estudiando: `Japones` e `Ingeniería de Software`
+- Actualmente estudiando: `Japonés`
 - Actualmente abierto a: Una `Pasantía`, `Trabajo colaborativo` o una nueva `Oportunidad de trabajo`, esta es mi [HOJA DE VIDA](#)
 
 <br>
 
 ### Redes Sociales
 <p align="center">
-    <a href="https://github.com/JoseMFB007/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  &emsp;
     <a href="#"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   &emsp;
     <a href="#"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -44,19 +42,21 @@
     <a href="#"><img alt="Java" align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="C++" align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="scrip" align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
 </p>
 
  ### Software y Herramientas
  
 <p align="center">
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/JoseMFB007/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 
- ### IDEs
+ ### Entornos de Desarrollo Integrado(IDE)
  
 <p align="center">
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
@@ -92,7 +92,7 @@
 </p>
 <br/>
 
-## Estadísticas de Github
+## Estadísticas de GitHub
 
 <br/>
 <p align="center">
@@ -106,13 +106,13 @@
 <br>
 </p>
 
-<b><i>Nota:</i></b> Este grafico solo es una métrica de los lenguajes más usados en mi código público y no refleja experiencia o habilidad directamente.
+<b><i>Nota:</i></b> Este gráfico solo es una métrica de los lenguajes más usados en mi código público y no refleja experiencia o habilidad directamente.
 <br>
     
 ----
 
 <br>
 <i><b>Créditos:</i></b>
-<a href="https://github.com/7oSkaaa">7oSkaaa</a> (Inspiracion), <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md">anuraghazra</a> (Estadisticas de Github), <a href="https://github.com/Ileriayo/markdown-badges#markdown-badges">Ileriayo</a> (Logos), <a href="https://github.com/DenverCoder1/readme-typing-svg">DenverCoder1</a> (Texto Principal)
+<a href="https://github.com/7oSkaaa">7oSkaaa</a> (Inspiración), <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md">anuraghazra</a> (Estadísticas de GitHub), <a href="https://github.com/Ileriayo/markdown-badges#markdown-badges">Ileriayo</a> (Logos), <a href="https://github.com/DenverCoder1/readme-typing-svg">DenverCoder1</a> (Texto Principal)
 <br>
-<i>Ultima Edición: 29/07/2022</i>
+<i>Última Edición: 29/07/2022</i>

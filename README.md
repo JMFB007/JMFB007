@@ -6,7 +6,7 @@
 
 
 ## Sobre mi:
-- Estudio Ing. de Sistemas en la `Institución Universitaria de Envigado`
+- Estudio Ingeniería de Sistemas en la `Institución Universitaria de Envigado`
 - Me encanta solucionar problemas
 - Hablo fluido: `Español` e `Ingles`
 - Intento programar diariamente

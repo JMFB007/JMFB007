@@ -29,7 +29,7 @@
   &emsp;
     <a href="#"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   &emsp;
-    <a href="https://discordapp.com/channels/@me/Slum#1888/"><img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://discordapp.com/channels/@me/Slum#1888/"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 
@@ -115,4 +115,4 @@
 <i><b>Créditos:</i></b>
 <a href="https://github.com/7oSkaaa">7oSkaaa</a>, <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md">anuraghazra</a>, <a href="https://github.com/Ileriayo/markdown-badges#markdown-badges">Ileriayo</a>, <a href="https://github.com/DenverCoder1/readme-typing-svg">DenverCoder1</a>
 <br>
-<i>Ultima Edición: 17/04/2022</i>
+<i>Ultima Edición: 29/07/2022</i>

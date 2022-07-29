@@ -113,6 +113,6 @@
 
 <br>
 <i><b>Créditos:</i></b>
-<a href="https://github.com/7oSkaaa">7oSkaaa</a> (Inspiracion), <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md">anuraghazra</a>(Estadisticas de Github), <a href="https://github.com/Ileriayo/markdown-badges#markdown-badges">Ileriayo</a> (Logos), <a href="https://github.com/DenverCoder1/readme-typing-svg">DenverCoder1</a> (Texto Principal)
+<a href="https://github.com/7oSkaaa">7oSkaaa</a> (Inspiracion), <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md">anuraghazra</a> (Estadisticas de Github), <a href="https://github.com/Ileriayo/markdown-badges#markdown-badges">Ileriayo</a> (Logos), <a href="https://github.com/DenverCoder1/readme-typing-svg">DenverCoder1</a> (Texto Principal)
 <br>
 <i>Ultima Edición: 29/07/2022</i>

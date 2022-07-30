@@ -11,7 +11,7 @@
 - Hablo fluido: `Español` e `Ingles`
 - Intento programar diariamente
 - Actualmente estudiando: `Japonés`
-- Actualmente abierto a: Una `Pasantía`, `Trabajo colaborativo` o una nueva `Oportunidad de trabajo`, esta es mi [HOJA DE VIDA](#)
+- Actualmente abierto a: Una `Pasantía`, `Trabajo colaborativo` o una nueva `Oportunidad de trabajo`
 
 <br>
 
